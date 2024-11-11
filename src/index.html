@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="styles.css">
+    <meta name="author" content="Elias Brinkman">
+    <title>For the Record</title>
+    <link href="styles.css" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <header>
+      <nav class="navbar navbar-expand-md navbar-dark bg-dark">
+        <div class="container-fluid align-items-end">
+          <a class="navbar-brand" href="#">
+            <img src="../assets/for_the_record.svg" alt="For the Record Logo" class="logo_main">
+          </a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+            <ul class="navbar-nav">
+              <li class="nav-item">
+                <a class="nav-link active text-light" aria-current="page" href="#">Current Favorites</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-light" href="#">Newest Additions</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link text-light" href="#">Full Collection</a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+
+      <div class="banner bg-light">
+        <div class="row container">
+          <div class="col-6"></div>
+          <div class="col-6">
+            <h1>My Own, Personal Catalogue</h1>
+            <p>A virtual display of all the records in my vinyl collection, with metadata from Discogs</p>
+            <button class="btn btn-outline-dark">See all records</button>
+          </div>
+        </div>
+      </div>
+    </header>
+    <main>
+      <div class="min-vh-50 bg-secondary d-flex align-items-center justify-content-center py-5">
+        <div id="carousel-single" class="carousel slide w-100" data-bs-ride="carousel">
+          <div class="carousel-inner container px-4">
+            <div class="carousel-item active">
+              <div class="card shadow mx-auto w-100">
+                <div class="card-body">
+                  <h5 class="card-title">Card One</h5>
+                  <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam labore unde, corrupti temporibus beatae quisquam nostrum quo voluptatum hic inventore minima amet maxime architecto ratione saepe vero ut! Mollitia accusamus modi necessitatibus tempora doloremque tempore amet voluptatibus hic fugit aperiam minima, commodi error placeat pariatur corporis. Suscipit a ad id.</p>
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item">
+              <div class="card shadow mx-auto w-100">
+                <div class="card-body">
+                  <h5 class="card-title">Card Two</h5>
+                  <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam labore unde, corrupti temporibus beatae quisquam nostrum quo voluptatum hic inventore minima amet maxime architecto ratione saepe vero ut! Mollitia accusamus modi necessitatibus tempora doloremque tempore amet voluptatibus hic fugit aperiam minima, commodi error placeat pariatur corporis. Suscipit a ad id.</p>
+                </div>
+              </div>
+            </div>
+            <div class="carousel-item">
+              <div class="card shadow mx-auto w-100">
+                <div class="card-body">
+                  <h5 class="card-title">Card Three</h5>
+                  <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quibusdam labore unde, corrupti temporibus beatae quisquam nostrum quo voluptatum hic inventore minima amet maxime architecto ratione saepe vero ut! Mollitia accusamus modi necessitatibus tempora doloremque tempore amet voluptatibus hic fugit aperiam minima, commodi error placeat pariatur corporis. Suscipit a ad id.</p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <button class="carousel-control-prev" type="button" data-bs-target="#carousel-single" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#carousel-single" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
+        </div>
+      </div>
+
+      <div class="min-vh-50 bg-dark py-5">
+        <div id="multiCarousel" class="carousel slide" data-bs-ride="carousel">
+          <div class="carousel-inner container px-4">
+            <!-- First Set of Cards -->
+            <div class="carousel-item active">
+              <div class="row g-4">
+                <div class="col-md-3">
+                  <div class="card shadow h-100">
+                    <div class="card-body">
+                      <h5 class="card-title">Card 1</h5>
+                      <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae ullam aliquid, voluptatibus corrupti omnis debitis earum?</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-3">
+                  <div class="card shadow h-100">
+                    <div class="card-body">
+                      <h5 class="card-title">Card 2</h5>
+                      <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae ullam aliquid, voluptatibus corrupti omnis debitis earum?</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-3">
+                  <div class="card shadow h-100">
+                    <div class="card-body">
+                      <h5 class="card-title">Card 3</h5>
+                      <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae ullam aliquid, voluptatibus corrupti omnis debitis earum?</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-3">
+                  <div class="card shadow h-100">
+                    <div class="card-body">
+                      <h5 class="card-title">Card 4</h5>
+                      <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae ullam aliquid, voluptatibus corrupti omnis debitis earum?</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Second Set of Cards -->
+            <div class="carousel-item">
+              <div class="row g-4">
+                <div class="col-md-3">
+                  <div class="card shadow h-100">
+                    <div class="card-body">
+                      <h5 class="card-title">Card 5</h5>
+                      <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae ullam aliquid, voluptatibus corrupti omnis debitis earum?</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-3">
+                  <div class="card shadow h-100">
+                    <div class="card-body">
+                      <h5 class="card-title">Card 6</h5>
+                      <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae ullam aliquid, voluptatibus corrupti omnis debitis earum?</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-3">
+                  <div class="card shadow h-100">
+                    <div class="card-body">
+                      <h5 class="card-title">Card 7</h5>
+                      <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae ullam aliquid, voluptatibus corrupti omnis debitis earum?</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-md-3">
+                  <div class="card shadow h-100">
+                    <div class="card-body">
+                      <h5 class="card-title">Card 8</h5>
+                      <p class="card-text">Lorem ipsum dolor sit amet consectetur adipisicing elit. Recusandae ullam aliquid, voluptatibus corrupti omnis debitis earum?</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <button class="carousel-control-prev" type="button" data-bs-target="#multiCarousel" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </button>
+          <button class="carousel-control-next" type="button" data-bs-target="#multiCarousel" data-bs-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </button>
+        </div>
+      </div>
+    </main>
+
+    <script src="../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+  </body>
+</html>

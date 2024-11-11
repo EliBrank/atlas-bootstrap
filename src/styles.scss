@@ -1,0 +1,18 @@
+// Color Overrides
+$light: #F3E6DE;
+$dark: #312823;
+$primary: #EF9220;
+$secondary: #A75122;
+
+// Font Override
+
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+body {
+  font-family: "Poppins", sans-serif !important
+}
+
+.logo_main {
+  height: 56px
+}
