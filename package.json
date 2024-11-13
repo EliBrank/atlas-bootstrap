@@ -1,5 +1,19 @@
 {
   "dependencies": {
     "bootstrap": "^5.3.3"
+  },
+  "devDependencies": {
+    "copyfiles": "^2.4.1",
+    "sass": "^1.80.7"
+  },
+  "scripts": {
+    "build:scss": "sass src/scss:dist/css --style compressed",
+    "copy:html": "copyfiles -u 1 src/**/*.html dist/",
+    "copy:assets": "copyfiles -u 1 'src/assets/**/*' 'src/assets/**/.*' dist/",
+    "copy:js": "copyfiles -u 1 src/js/**/* dist/",
+    "copy:bootstrap": "copyfiles -u 4 node_modules/bootstrap/dist/js/bootstrap.bundle.min.js dist/js/",
+    "build": "npm run build:scss && npm run copy:html && npm run copy:assets && npm run copy:js && npm run copy:bootstrap",
+    "watch:scss": "sass --watch src/scss:dist/css",
+    "dev": "npm run build && npm run watch:scss"
   }
 }
