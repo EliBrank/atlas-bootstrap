@@ -63,3 +63,10 @@ button, input[type="submit"], input[type="reset"] {
   background-repeat: no-repeat;
   min-height: 120px;
 }
+
+.btn-outline-dark:hover,
+.btn-outline-dark:active,
+.btn-outline-dark:focus {
+  background-color: $dark !important;
+  color: $light !important;
+}
