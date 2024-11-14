@@ -27,7 +27,9 @@ const VinylCollection = (() => {
   // render loaded vinyl collection on page
   const renderVinylCollection = (data) => {
     const vinylContainer = document.getElementById('vinyl-collection');
-    vinylContainer.innerHTML = '';
+
+    // clear out all content in collection except for aside (first element)
+    vinylContainer.querySelectorAll('.col:not(:first-child)').forEach(col => col.remove());
 
     // go through each entry in json object
     data.forEach(item => {
@@ -65,6 +67,7 @@ const VinylCollection = (() => {
   const sortRecords = (sortBy) => {
     const vinylContainer = document.getElementById('vinyl-collection');
     const vinylItems = Array.from(vinylContainer.querySelectorAll('.col'));
+    const asideElement = vinylItems.shift();
 
     vinylItems.sort((a, b) => {
       let aText, bText;
@@ -86,6 +89,7 @@ const VinylCollection = (() => {
 
     vinylContainer.innerHTML = '';
     vinylItems.forEach(item => vinylContainer.appendChild(item));
+    vinylContainer.prepend(asideElement);
   };
 
   return {
