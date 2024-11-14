@@ -1,261 +1,298 @@
 [
   {
-    "Title": "Chase Me",
-    "Artist": "Danger Mouse Featuring Run The Jewels & Big Boi",
-    "Release Year": "2017",
-    "Format": "12\", RSD",
-    "Release ID": "11176039",
-    "Cover Art": ""
+    "title": "Chase Me",
+    "artist": "Danger Mouse Featuring Run The Jewels & Big Boi",
+    "releaseYear": "2017",
+    "format": "12\", RSD",
+    "releaseID": "11176039",
+    "coverArt": "../images/album_art/Danger_Mouse_Run_the_Jewels--Chase_Me.jpg"
   },
   {
-    "Title": "Strange Mercy",
-    "Artist": "St. Vincent",
-    "Release Year": "2011",
-    "Format": "LP, Album, Ltd, Whi",
-    "Release ID": "3097202"
+    "title": "Loveless",
+    "artist": "My Bloody Valentine",
+    "releaseYear": "2021",
+    "format": "LP, Album, Dlx, RE, RP, Gat",
+    "releaseID": "18793696",
+    "coverArt": "../images/album_art/My_Bloody_Valentine--Loveless.jpg"
   },
   {
-    "Title": "Bubblin",
-    "Artist": "Anderson .Paak",
-    "Release Year": "2019",
-    "Format": "7\", RSD, Single, Cre",
-    "Release ID": "13458725"
+    "title": "Strange Mercy",
+    "artist": "St. Vincent",
+    "releaseYear": "2011",
+    "format": "LP, Album, Ltd, Whi",
+    "releaseID": "3097202",
+    "coverArt": "../images/album_art/St_Vincent--Strange_Mercy.jpg"
   },
   {
-    "Title": "Drums And Wires",
-    "Artist": "XTC",
-    "Release Year": "2020",
-    "Format": "LP, Album, 200 + 7\", Single, Ltd + RE",
-    "Release ID": "16269444"
+    "title": "Bubblin",
+    "artist": "Anderson .Paak",
+    "releaseYear": "2019",
+    "format": "7\", RSD, Single, Cre",
+    "releaseID": "13458725",
+    "coverArt": "../images/album_art/Anderson_Paak--Bubblin.jpg"
   },
   {
-    "Title": "Illinois",
-    "Artist": "Sufjan Stevens",
-    "Release Year": "2016",
-    "Format": "2xLP, Album, RE, RM, CA",
-    "Release ID": "11076713"
+    "title": "Drums And Wires",
+    "artist": "XTC",
+    "releaseYear": "2020",
+    "format": "LP, Album, 200 + 7\", Single, Ltd + RE",
+    "releaseID": "16269444",
+    "coverArt": "../images/album_art/XTC--Drums_and_Wires.jpg"
   },
   {
-    "Title": "The Age Of Adz",
-    "Artist": "Sufjan Stevens",
-    "Release Year": "2010",
-    "Format": "2xLP, Album, 180",
-    "Release ID": "2529888"
+    "title": "Illinois",
+    "artist": "Sufjan Stevens",
+    "releaseYear": "2016",
+    "format": "2xLP, Album, RE, RM, CA",
+    "releaseID": "11076713",
+    "coverArt": "../images/album_art/Sufjan_Stevens--Illinois.jpg"
   },
   {
-    "Title": "Attack On Memory",
-    "Artist": "Cloud Nothings",
-    "Release Year": "2012",
-    "Format": "LP, Album",
-    "Release ID": "19470067"
+    "title": "The Age Of Adz",
+    "artist": "Sufjan Stevens",
+    "releaseYear": "2010",
+    "format": "2xLP, Album, 180",
+    "releaseID": "2529888",
+    "coverArt": "../images/album_art/Sufjan_Stevens--Age_of_Adz.jpg"
   },
   {
-    "Title": "A Symphonic Celebration (Music From The Studio Ghibli Films Of Hayao Miyazaki)",
-    "Artist": "Joe Hisaishi, Royal Philharmonic Orchestra",
-    "Release Year": "2023",
-    "Format": "2xLP, Album, Ltd, Blu",
-    "Release ID": "28426726"
+    "title": "Attack On Memory",
+    "artist": "Cloud Nothings",
+    "releaseYear": "2012",
+    "format": "LP, Album",
+    "releaseID": "19470067",
+    "coverArt": "../images/album_art/Cloud_Nothings--Attack_on_Memory.jpg"
   },
   {
-    "Title": "1000 Gecs",
-    "Artist": "100 Gecs",
-    "Release Year": "2020",
-    "Format": "LP, Album, Bla",
-    "Release ID": "19297615"
+    "title": "A Symphonic Celebration (Music From The Studio Ghibli Films Of Hayao Miyazaki)",
+    "artist": "Joe Hisaishi, Royal Philharmonic Orchestra",
+    "releaseYear": "2023",
+    "format": "2xLP, Album, Ltd, Blu",
+    "releaseID": "28426726",
+    "coverArt": "../images/album_art/Joe_Hisaishi--A_Symphonic_Celebration.jpg"
   },
   {
-    "Title": "Monologue",
-    "Artist": "Phoenix",
-    "Release Year": "2018",
-    "Format": "7\", Shape, RSD, Single, Ltd, Red",
-    "Release ID": "11894108"
+    "title": "1000 Gecs",
+    "artist": "100 Gecs",
+    "releaseYear": "2020",
+    "format": "LP, Album, Bla",
+    "releaseID": "19297615",
+    "coverArt": "../images/album_art/100_Gecs--1000_Gecs.jpg"
   },
   {
-    "Title": "Flood",
-    "Artist": "They Might Be Giants",
-    "Release Year": "2020",
-    "Format": "LP, Album, Ltd, Pic, RE, 30t",
-    "Release ID": "14639400"
+    "title": "Monologue",
+    "artist": "Phoenix",
+    "releaseYear": "2018",
+    "format": "7\", Shape, RSD, Single, Ltd, Red",
+    "releaseID": "11894108",
+    "coverArt": "../images/album_art/Phoenix--Monologue.jpg"
   },
   {
-    "Title": "Dragonslayer",
-    "Artist": "Sunset Rubdown",
-    "Release Year": "2009",
-    "Format": "2xLP, Album",
-    "Release ID": "1826222"
+    "title": "Dragonslayer",
+    "artist": "Sunset Rubdown",
+    "releaseYear": "2009",
+    "format": "2xLP, Album",
+    "releaseID": "1826222",
+    "coverArt": "../images/album_art/Sunset_Rubdown--Dragon_Slayer.jpg"
   },
   {
-    "Title": "Trick",
-    "Artist": "Alex G",
-    "Release Year": "2022",
-    "Format": "LP, Album, Ltd, RE, Bla",
-    "Release ID": "25429423"
+    "title": "Trick",
+    "artist": "Alex G",
+    "releaseYear": "2022",
+    "format": "LP, Album, Ltd, RE, Bla",
+    "releaseID": "25429423",
+    "coverArt": "../images/album_art/Alex_G--Trick.jpg"
   },
   {
-    "Title": "Pale Machine 10 Year Anniversary Re​-​master",
-    "Artist": "bo en",
-    "Release Year": "2023",
-    "Format": "LP, Album, RM",
-    "Release ID": "28954018"
+    "title": "Pale Machine 10 Year Anniversary Re​-​master",
+    "artist": "bo en",
+    "releaseYear": "2023",
+    "format": "LP, Album, RM",
+    "releaseID": "28954018",
+    "coverArt": "../images/album_art/Bo_en--Pale_Machine.jpg"
   },
   {
-    "Title": "Plowing Into The Field Of Love",
-    "Artist": "Iceage",
-    "Release Year": "2014",
-    "Format": "LP + LP, S/Sided + Album",
-    "Release ID": "6216253"
+    "title": "Plowing Into The Field Of Love",
+    "artist": "Iceage",
+    "releaseYear": "2014",
+    "format": "LP + LP, S/Sided + Album",
+    "releaseID": "6216253",
+    "coverArt": "../images/album_art/Iceage--Plowing_into_the_Field_of_Love.jpg"
   },
   {
-    "Title": "Spit On A Stranger",
-    "Artist": "Pavement",
-    "Release Year": "2022",
-    "Format": "12\", EP, Ltd, RE",
-    "Release ID": "22705619"
+    "title": "Spit On A Stranger",
+    "artist": "Pavement",
+    "releaseYear": "2022",
+    "format": "12\", EP, Ltd, RE",
+    "releaseID": "22705619",
+    "coverArt": "../images/album_art/Pavement--Spit_on_a_Stranger.jpg"
   },
   {
-    "Title": "A Certain Kind Of Everybody",
-    "Artist": "Weyes Blood",
-    "Release Year": "2022",
-    "Format": "7\", RSD, Single, Ltd, RE, Red",
-    "Release ID": "22904516"
+    "title": "A Certain Kind Of Everybody",
+    "artist": "Weyes Blood",
+    "releaseYear": "2022",
+    "format": "7\", RSD, Single, Ltd, RE, Red",
+    "releaseID": "22904516",
+    "coverArt": "../images/album_art/Weyes_Blood--A_Certain_Kind_of_Everybody.jpg"
   },
   {
-    "Title": "Vega Intl. Night School",
-    "Artist": "Neon Indian",
-    "Release Year": "2015",
-    "Format": "2xLP, Album, Yel",
-    "Release ID": "7884822"
+    "title": "Vega Intl. Night School",
+    "artist": "Neon Indian",
+    "releaseYear": "2015",
+    "format": "2xLP, Album, Yel",
+    "releaseID": "7884822",
+    "coverArt": "../images/album_art/Neon_Indian--Vega_Intl_Night_School.jpg"
   },
   {
-    "Title": "Flood",
-    "Artist": "They Might Be Giants",
-    "Release Year": "2014",
-    "Format": "LP, Album, RE, 180",
-    "Release ID": "6226329"
+    "title": "Flood",
+    "artist": "They Might Be Giants",
+    "releaseYear": "2014",
+    "format": "LP, Album, RE, 180",
+    "releaseID": "6226329",
+    "coverArt": "../images/album_art/They_Might_Be_Giants--Flood.jpg"
   },
   {
-    "Title": "Before The Dawn Heals Us",
-    "Artist": "M83",
-    "Release Year": "2022",
-    "Format": "2xLP, Album, RE",
-    "Release ID": "24234080"
+    "title": "Before The Dawn Heals Us",
+    "artist": "M83",
+    "releaseYear": "2022",
+    "format": "2xLP, Album, RE",
+    "releaseID": "24234080",
+    "coverArt": "../images/album_art/M83--Before_the_Dawn_Heals_Us.jpg"
   },
   {
-    "Title": "Spirit Phone",
-    "Artist": "Lemon Demon",
-    "Release Year": "2018",
-    "Format": "LP, Mar + LP, Cle + Album, Ltd, RM, Whi",
-    "Release ID": "12679974"
+    "title": "Spirit Phone",
+    "artist": "Lemon Demon",
+    "releaseYear": "2018",
+    "format": "LP, Mar + LP, Cle + Album, Ltd, RM, Whi",
+    "releaseID": "12679974",
+    "coverArt": "../images/album_art/Lemon_Demon--Spirit_Phone.jpg"
   },
   {
-    "Title": "My Agenda (Deluxe)",
-    "Artist": "Dorian Electra",
-    "Release Year": "2022",
-    "Format": "2xLP, Album, Dlx, Tra",
-    "Release ID": "22059382"
+    "title": "My Agenda (Deluxe)",
+    "artist": "Dorian Electra",
+    "releaseYear": "2022",
+    "format": "2xLP, Album, Dlx, Tra",
+    "releaseID": "22059382",
+    "coverArt": "../images/album_art/Dorian_Electra--My_Agenda.jpg"
   },
   {
-    "Title": "It's Album Time",
-    "Artist": "Todd Terje",
-    "Release Year": "2014",
-    "Format": "2x12\", Album",
-    "Release ID": "7644509"
+    "title": "It's Album Time",
+    "artist": "Todd Terje",
+    "releaseYear": "2014",
+    "format": "2x12\", Album",
+    "releaseID": "7644509",
+    "coverArt": "../images/album_art/Todd_Terje--It's_Album_Time.jpg"
   },
   {
-    "Title": "Vespertine",
-    "Artist": "Björk",
-    "Release Year": "2022",
-    "Format": "2xLP, Album, RE",
-    "Release ID": "21838213"
+    "title": "Vespertine",
+    "artist": "Björk",
+    "releaseYear": "2022",
+    "format": "2xLP, Album, RE",
+    "releaseID": "21838213",
+    "coverArt": "../images/album_art/Bjork--Vespertine.jpg"
   },
   {
-    "Title": "Discovery",
-    "Artist": "Daft Punk",
-    "Release Year": "2014",
-    "Format": "2xLP, Album, RE, RP",
-    "Release ID": "6416046"
+    "title": "Homogenic",
+    "artist": "Björk",
+    "releaseYear": "2022",
+    "format": "LP, Album, RE",
+    "releaseID": "21577147",
+    "coverArt": "../images/album_art/Bjork--Homogenic.jpg"
   },
   {
-    "Title": "Fantasy Black Channel",
-    "Artist": "Late Of The Pier",
-    "Release Year": "2019",
-    "Format": "LP, Album, RE",
-    "Release ID": "13111006"
+    "title": "Discovery",
+    "artist": "Daft Punk",
+    "releaseYear": "2014",
+    "format": "2xLP, Album, RE, RP",
+    "releaseID": "6416046",
+    "coverArt": "../images/album_art/Daft_Punk--Discovery.jpg"
   },
   {
-    "Title": "Celeste B​-​Sides",
-    "Artist": "Various",
-    "Release Year": "2019",
-    "Format": "LP, Album, Ltd, Lig",
-    "Release ID": "13912971"
+    "title": "Fantasy Black Channel",
+    "artist": "Late Of The Pier",
+    "releaseYear": "2019",
+    "format": "LP, Album, RE",
+    "releaseID": "13111006",
+    "coverArt": "../images/album_art/Late_of_the_Pier--Fantasy_Black_Channel.jpg"
   },
   {
-    "Title": "El Mal Querer",
-    "Release Year": "2018",
-    "Format": "LP, Album",
-    "Release ID": "12746598"
+    "title": "Celeste B​-​Sides",
+    "artist": "Various",
+    "releaseYear": "2019",
+    "format": "LP, Album, Ltd, Lig",
+    "releaseID": "13912971",
+    "coverArt": "../images/album_art/Celeste_B-sides.jpg"
   },
   {
-    "Title": "Give Up",
-    "Artist": "The Postal Service",
-    "Release Year": "2019",
-    "Format": "LP, Album, RE, RM",
-    "Release ID": "14793761"
+    "title": "Give Up",
+    "artist": "The Postal Service",
+    "releaseYear": "2019",
+    "format": "LP, Album, RE, RM",
+    "releaseID": "14793761",
+    "coverArt": "../images/album_art/The_Postal_Service--Give_Up.jpg"
   },
   {
-    "Title": "Ctrl",
-    "Artist": "SZA",
-    "Release Year": "2017",
-    "Format": "2xLP, Album, Gre",
-    "Release ID": "11150838"
+    "title": "Ctrl",
+    "artist": "SZA",
+    "releaseYear": "2017",
+    "format": "2xLP, Album, Gre",
+    "releaseID": "11150838",
+    "coverArt": "../images/album_art/SZA--Ctrl.jpg"
   },
   {
-    "Title": "Come In",
-    "Artist": "Weatherday",
-    "Release Year": "2022",
-    "Format": "2xLP, Album, Ltd, RE, Neo",
-    "Release ID": "24744827"
+    "title": "Come In",
+    "artist": "Weatherday",
+    "releaseYear": "2022",
+    "format": "2xLP, Album, Ltd, RE, Neo",
+    "releaseID": "24744827",
+    "coverArt": "../images/album_art/Weatherday--Come_in.jpg"
   },
   {
-    "Title": "Mr Twin Sister",
-    "Artist": "Twin Sister",
-    "Release Year": "2014",
-    "Format": "LP, Album, Cle",
-    "Release ID": "6153891"
+    "title": "Mr Twin Sister",
+    "artist": "Mr Twin Sister",
+    "releaseYear": "2014",
+    "format": "LP, Album, Cle",
+    "releaseID": "6153891",
+    "coverArt": "../images/album_art/Mr_Twin_Sister--Mr_Twin_Sister.jpg"
   },
   {
-    "Title": "Power Of Two / Echo Arms",
-    "Artist": "Twin Sister",
-    "Release Year": "2018",
-    "Format": "12\", Single, Ltd",
-    "Release ID": "12677137"
+    "title": "Power Of Two / Echo Arms",
+    "artist": "Mr Twin Sister",
+    "releaseYear": "2018",
+    "format": "12\", Single, Ltd",
+    "releaseID": "12677137",
+    "coverArt": "../images/album_art/Mr_Twin_Sister--Power_of_Two_Echo_Arms.jpg"
   },
   {
-    "Title": "Ceres & Calypso In The Deep Time (10th Anniversary Edition)",
-    "Artist": "Candy Claws, Jenn Morea",
-    "Release Year": "2023",
-    "Format": "2xLP, Jun + CD, Single",
-    "Release ID": "27908031"
+    "title": "Ceres & Calypso In The Deep Time (10th Anniversary Edition)",
+    "artist": "Candy Claws, Jenn Morea",
+    "releaseYear": "2023",
+    "format": "2xLP, Jun + CD, Single",
+    "releaseID": "27908031",
+    "coverArt": "../images/album_art/Candy_Claws--Ceres_And_Calypso_in_the_Deep_Time.jpg"
   },
   {
-    "Title": "Shake The Shudder",
-    "Artist": "!!!",
-    "Release Year": "2017",
-    "Format": "2xLP, Album, Ltd, Tra",
-    "Release ID": "10315338"
+    "title": "Shake The Shudder",
+    "artist": "!!! (Chk Chk Chk)",
+    "releaseYear": "2017",
+    "format": "2xLP, Album, Ltd, Tra",
+    "releaseID": "10315338",
+    "coverArt": "../images/album_art/Chk_Chk_Chk--Shake_the_Shudder.jpg"
   },
   {
-    "Title": "What We Drew = 우리가 그려왔던",
-    "Artist": "Yaeji",
-    "Release Year": "2021",
-    "Format": "LP, Album, Ltd, Ann",
-    "Release ID": "18551974"
+    "title": "What We Drew 우리가 그려왔던",
+    "artist": "Yaeji",
+    "releaseYear": "2021",
+    "format": "LP, Album, Ltd, Ann",
+    "releaseID": "18551974",
+    "coverArt": "../images/album_art/Yaeji--What_We_Drew.jpg"
   },
   {
-    "Title": "Kala",
-    "Artist": "M.I.A.",
-    "Release Year": "2021",
-    "Format": "LP, Pur + LP, Gre + Album, Club, RE, RM, Hal",
-    "Release ID": "18223558"
-  },
+    "title": "Kala",
+    "artist": "M.I.A.",
+    "releaseYear": "2021",
+    "format": "LP, Pur + LP, Gre + Album, Club, RE, RM, Hal",
+    "releaseID": "18223558",
+    "coverArt": "../images/album_art/MIA--Kala.jpg"
+  }
 ]
