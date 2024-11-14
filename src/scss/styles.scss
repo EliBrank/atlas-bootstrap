@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'Bonnaco';
   src: local('Bonnaco Regular'), local('Bonnaco-Regular'),
-    url('assets/fonts/BONNACORegular.woff2') format('woff2'),
-    url('assets/fonts/BONNACORegular.woff') format('woff'),
-    url('assets/fonts/BONNACORegular.ttf') format('truetype');
+    url('../assets/fonts/BONNACORegular.woff2') format('woff2'),
+    url('../assets/fonts/BONNACORegular.woff') format('woff'),
+    url('../assets/fonts/BONNACORegular.ttf') format('truetype');
   font-weight: 400;
   font-style: normal;
 }
