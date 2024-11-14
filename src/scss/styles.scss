@@ -66,7 +66,7 @@ button, input[type="submit"], input[type="reset"] {
 
 .btn-outline-dark:hover,
 .btn-outline-dark:active,
-.btn-outline-dark:focus {
+.btn-outline-dark:focus-within {
   background-color: $dark !important;
   color: $light !important;
 }
