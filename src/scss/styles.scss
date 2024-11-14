@@ -76,3 +76,7 @@ button, input[type="submit"], input[type="reset"] {
 .nav-link:focus-within {
   color: $primary !important;
 }
+
+.carousel-item {
+  overflow: hidden;
+}
